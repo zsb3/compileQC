@@ -1,0 +1,22 @@
+seqName,Sequence Name,SS3015992612_ZZYGRRTA
+refName,Reference Name,MN908947 (Wuhan-Hu-1/2019)
+customNodeAttributes.Nextclade_pango,Pangolin Lineage,B
+clade,Nextstrain Clade,19A
+totalNonACGTNs_x,Total Non-ACGTNs,0
+nonACGTNs,Non-ACGTN Locations,[]
+qc.frameShifts.frameShifts,Frameshift Locations,"[{'cdsName': 'ORF1a', 'nucRel': {'begin': 373, 'end': 2886}, 'nucAbs': [{'begin': 638, 'end': 3151}], 'codon': {'begin': 125, 'end': 962}, 'gapsLeading': {'begin': 31, 'end': 125}, 'gapsTrailing': {'begin': 962, 'end': 1523}}, {'cdsName': 'ORF1a', 'nucRel': {'begin': 10460, 'end': 13203}, 'nucAbs': [{'begin': 10725, 'end': 13468}], 'codon': {'begin': 3487, 'end': 4401}, 'gapsLeading': {'begin': 3430, 'end': 3487}, 'gapsTrailing': {'begin': 4401, 'end': 4401}}, {'cdsName': 'ORF1b', 'nucRel': {'begin': 2266, 'end': 8088}, 'nucAbs': [{'begin': 15733, 'end': 21555}], 'codon': {'begin': 756, 'end': 2696}, 'gapsLeading': {'begin': 749, 'end': 756}, 'gapsTrailing': {'begin': 2696, 'end': 2696}}]"
+missing,Missing Locations,"['53-56', '199-200', '303-344', '357-358', '638-2892', '2991-3063', '3094-3095', '3112-3113', '3115-3116', '3126-3127', '3150-3151', '4833-10089', '10099-10103', '10136-10449', '10461-10462', '10465-10466', '10554-10555', '10725-12039', '12051-12642', '12653-12655', '12658-13135', '13812-15281', '15303-15547', '15712-15714', '15733-16150', '16169-16170', '16176-16177', '16291-17342', '17364-17993', '18013-18033', '18066-18067', '18082-18083', '18087-18088', '18099-21555', '23386-25402', '25427-25495', '25497-26220', '26283-27976', '27996-29597']"
+deletions,Deletion Locations,"['182-199', '358-638', '3151-4833', '10555-10725', '13162-13812', '15714-15733', '16185-16291', '21555-23386', '26220-26283']"
+alignmentScore,Alignment Score,50387
+privateNucMutations.totalPrivateSubstitutions,Total Private Mutations,0
+privateNucMutations.totalPrivateDeletions,Total Private Deletions,4818
+missing_in_spike_x,Total Missing Data in Spike,1998
+nonACGTN_in_spike_x,Total Non-ACGTNs in Spike,0
+MedianDepth_x,Median Depth,4
+MinorVariantsFreqs,Minor Alleles Reported From IRMA (Position:Frequency),[]
+minorAboveThreshold_x,Minor Alleles Above Threshold,0
+totalNonACGTNs_y,Total Non-ACGTNs (Pass/Fail),Pass
+nonACGTN_in_spike_y,Total Non-ACGTNs in Spike (Pass/Fail),Pass
+MedianDepth_y,Median Depth (Pass/Fail),Fail
+missing_in_spike_y,Total Missing Data in Spike (Pass/Fail),Fail
+minorAboveThreshold_y,Minor Alleles Below Threshold (Pass/Fail),Pass
